@@ -1,4 +1,5 @@
+Bookcategory Webservice
+================
+
 Implementation of Bookcategory Webservice.
-Navigate to "WebContent\WEB-INF\services\BookStoreImpl"
-and then run: " jar cvf BookStoreImpl.aar SC13Project META-INF "
-The .aar file can now be added to service folder of Axis2
+The path to the datasource cane be edite in variable filePath of "src\SC13Project\Milestone1\BookStore\BookStoreImpl.java"
